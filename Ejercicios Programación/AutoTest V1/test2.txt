@@ -1,0 +1,11 @@
+Pregunta1Este es el enunciado de la pregunta 1.
+Podría continuar escribiendo...
+.[('Respuesta 1', 1.0), ('Respuesta 2', -0.25), ('Respuesta 3', -0.25), ('Respuesta 4', -0.25)]---
+Pregunta 2Este es el enunciado de la pregunta 2.
+.[('Respuesta 1', -0.25), ('Respuesta 2', 1.0), ('Respuesta 3', -0.25), ('Respuesta 4', -0.25)]---
+Pregunta 3Este es el enunciado de la pregunta 3.
+.[('Respuesta 1', -0.25), ('Respuesta 2', -0.25), ('Respuesta 3', 1.0), ('Respuesta 4', -0.25)]---
+Pregunta 4Este es el enunciado de la pregunta 4.
+.[('Respuesta 1', -0.25), ('Respuesta 2', -0.25), ('Respuesta 3', -0.25), ('Respuesta 4', 1.0)]---
+Pregunta 5Este es el enunciado de la pregunta 5.
+.[('Respuesta 1', 1.0), ('Respuesta 2', -0.25), ('Respuesta 3', -0.25), ('Respuesta 4', -0.25)]---
